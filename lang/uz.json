@@ -1,0 +1,19 @@
+{
+    "app_description":"O‘zbekiston Fanlar akademiyasi Qoraqalpog‘iston bo‘limi Qoraqalpog‘iston kompleks ilmiy-tadqiqot instituti",
+    "page.home":"Bosh sahifa",
+    "page.prezidium":"Prezidium",
+    "page.news":"Yangiliklar",
+    "page.conferences":"Konferensiyalar",
+    "page.books":"Kitoblar",
+    "page.projects":"Loyihalar",
+    "page.about":"Biz haqimizda",
+    "page.contact":"Biz bilan bog'lanish",
+
+    "contact.locale":"41, Проспект Бердаха, г. Нукус, Республика Каракалпакстан, УЗБЕКИСТАН, 230100.",
+    "contact.phone":"+998612221745",
+    "contact.fax":"+998612221744",
+    "contact.email":"info@aknuk.uz",
+
+    "Dashboard":"Boshqaruv paneli"
+
+}
